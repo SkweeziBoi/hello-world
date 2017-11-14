@@ -1,8 +1,7 @@
 # hello-world
 
-Hi! Im SkweeziBoi, or Skweezi Leekz#2426 on discord
-I can code in node.js and thats it
-I like gaming and would like to play with you anytime if you'd like that
-Try channa, its BOMB!
+Sup, im SkweeziBoi and i like [channa](http://lmgtfy.com/?q=channa)
+Thats all u need to know.
+i also make discord bots.
 
 well, bye!
